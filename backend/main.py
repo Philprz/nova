@@ -8,6 +8,7 @@ load_dotenv()
 
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
+print(">>> API KEY:", os.getenv("ANTHROPIC_API_KEY"))
 
 app = FastAPI()
 
