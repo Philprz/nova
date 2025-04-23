@@ -73,3 +73,4 @@ docker-compose.yml
 
 # Fichiers spécifiques à Heroku
 .slugignore
+.qodo
