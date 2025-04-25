@@ -4,5 +4,4 @@ python-dotenv
 requests
 pydantic
 simple-salesforce
-pyrfc
 websockets
